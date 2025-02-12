@@ -5,12 +5,12 @@ A collection of pages with generic interview questions asked at interviews. Gene
 
  List of questions for interviews
  
- + [Linux Questions](linux-questions)
- + [Network Questions](network-questions)
- 	+ [How iptables works](how-iptables-works)
- + [System Design](system-design)
- + [Kubernetes Questions](kubernetes-questions)
- + [Linux Internals](linux-internals)
- + [Shell Scripting](shell-scripting)
- + [Golang Sysadmins Questions](golang-sysadmins-questions)
- + [Networking Protocols Questions](networking-protocols-questions)
+ + [Linux Questions](linux-questions.md)
+ + [Network Questions](network-questions.md)
+ 	+ [How iptables works](how-iptables-works.md)
+	 + [Networking Protocols Questions](networking-protocols-questions.md)
+ + [System Design](system-design.md)
+ + [Kubernetes Questions](kubernetes-questions.md)
+ + [Linux Internals](linux-internals.md)
+ + [Shell Scripting](shell-scripting.md)
+ + [Golang Sysadmins Questions](golang-sysadmins-questions.md)
